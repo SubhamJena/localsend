@@ -1,5 +1,5 @@
 {
-  "locale": "English",
+  "locale": "ଓଡ଼ିଆ",
   "appName": "LocalSend",
   "general": {
     "accept": "Accept",
@@ -85,23 +85,23 @@
     "placeItems": "Place items to share."
   },
   "settingsTab": {
-    "title": "Settings",
+    "title": "ସେଟିଂ",
     "general": {
-      "title": "General",
-      "brightness": "Theme",
+      "title": "ସାଧାରଣ",
+      "brightness": "ଥିମ୍",
       "brightnessOptions": {
-        "system": "System",
-        "dark": "Dark",
-        "light": "Light"
+        "system": "ସିଷ୍ଟମ୍",
+        "dark": "ଗାଢ଼",
+        "light": "ହାଲୁକା"
       },
-      "color": "Color",
+      "color": "ରଙ୍ଗ",
       "colorOptions": {
-        "system": "System",
+        "system": "ସିଷ୍ଟମ୍",
         "oled": "OLED"
       },
-      "language": "Language",
+      "language": "ଭାଷା",
       "languageOptions": {
-        "system": "System"
+        "system": "ସିଷ୍ଟମ୍"
       },
       "saveWindowPlacement": "Save window position after quit",
       "saveWindowPlacementWindows": "Save window position after exit",
@@ -483,8 +483,8 @@
   },
   "assetPicker": {
     "@info": "Android ଏବଂ iPhone ପାଇଁ ମିଡ଼ିଆ ଚୟନ ଉପକରଣର ଅନୁବାଦ",
-    "confirm": "Confirm",
-    "cancel": "Cancel",
+    "confirm": "ନିଶ୍ଚିତ କରିବା",
+    "cancel": "ବାତିଲ୍ କରିବା",
     "edit": "ସମ୍ପାଦନା",
     "gifIndicator": "GIF",
     "loadFailed": "ଧାରଣ ବିଫଳ ହେଲା",
